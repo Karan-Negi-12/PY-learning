@@ -8,10 +8,11 @@ user_input = ""
 while user_input != "q":
 
     user_input = input("enter a number or press q for quit: ")
-    if int(user_input) % 2 ==0:
-        print("Number is Even")
-    else:
-        print("Number is odd")
+    if user_input.isdigit():
+        if int(user_input) % 2 ==0:
+            print("Number is Even")
+        else:
+            print("Number is odd")
 
 # while True:
 #     Num1 = int(input("Enter a number -"))
