@@ -1,0 +1,101 @@
+50 Practice Questions
+
+Write a program to print "Hello, Python!"
+
+Write a program to print your name and age on separate lines.
+
+Write a program to print the following output using the sep parameter: "Python", "is", "fun", separated by a comma and a space.
+
+Write a program to print "Coding" three times on the same line using the end parameter.
+
+Determine the data type of the following values: 10, 3.14, "Hello", True, None, 2 + 3j, [1, 2, 3], (4, 5, 6), and {"a": 1}.
+
+Write a program to declare a variable named city and assign it the value "New York". Then, print the value of the variable.
+
+Write a program to swap the values of two variables, a and b.
+
+Write a program to calculate the area of a rectangle. Take the length and width as input from the user.
+
+Write a program to convert Celsius to Fahrenheit. Take the Celsius value as input from the user.
+
+Write a program that takes two numbers as input from the user and prints their sum, difference, product, and quotient.
+
+Write a program to calculate the simple interest. Take the principal, rate, and time as input from the user.
+
+Write a program to find the average of three numbers taken as input from the user.
+
+Write a program to calculate the area of a triangle. Take the base and height as input from the user.
+
+Write a program to find the volume of a cube. Take the side as input from the user.
+
+Write a program to convert inches to centimeters. Take the inches value as input from the user.
+
+Write a program to convert kilometers to miles. Take the kilometer value as input from the user.
+
+Write a program to calculate the area of a circle. Take the radius as input from the user.
+
+Write a program to calculate the volume of a sphere. Take the radius as input from the user.
+
+Write a program to check if a number is even or odd. Take the number as input from the user.
+
+Write a program to find the maximum of two numbers. Take the numbers as input from the user.
+
+Write a program to find the minimum of two numbers. Take the numbers as input from the user.
+
+Write a program that takes a string as input and prints its length.
+
+Write a program that takes a string as input and prints it in uppercase.
+
+Write a program that takes a string as input and prints it in lowercase.
+
+Write a program to concatenate two strings taken as input from the user.
+
+Write a program to extract a substring from a given string. Take the start and end indices as input from the user.
+
+Write a program to replace a character in a string with another character. Take the original string, character to replace, and the new character as input from the user.
+
+Write a program to split a string into a list of words. Take the string as input from the user.
+
+Write a program to join a list of words into a single string. Take the list of words as input.
+
+Write a program to reverse a given string.
+
+Write a program to check if a given string is a palindrome.
+
+Write a program to count the number of vowels in a given string.
+
+Write a program to count the number of consonants in a given string.
+
+Write a program to remove all whitespace from a given string.
+
+Write a program to convert a string to title case.
+
+Write a program to check if a given number is positive, negative, or zero.
+
+Write a program to calculate the factorial of a number. Take the number as input from the user.
+
+Write a program to check if a number is a prime number. Take the number as input from the user.
+
+Write a program to generate the Fibonacci sequence up to a given number of terms. Take the number of terms as input from the user.
+
+Write a program to find the sum of digits of a given number. Take the number as input from the user.
+
+Write a program to reverse a given number. Take the number as input from the user.
+
+Write a program to check if a given number is an Armstrong number. Take the number as input from the user.
+
+Write a program to convert a decimal number to binary. Take the decimal number as input from the user.
+
+Write a program to convert a binary number to decimal. Take the binary number as input from the user.
+
+Write a program to perform basic arithmetic operations (addition, subtraction, multiplication, division) based on user input. The user should enter two numbers and the operation they want to perform.
+
+Write a program to calculate the area of different shapes (rectangle, triangle, circle) based on user choice.
+
+Write a program to convert different units of measurement (e.g., inches to feet, grams to kilograms) based on user input.
+
+Write a program to simulate a simple calculator that can perform addition, subtraction, multiplication, and division.
+
+Write a program to format a string with variables. For example, take the user's name and age as input and print a formatted string like "Hello, [Name]! You are [Age] years old."
+
+Write a program that takes a sentence as input and counts the number of words in it.
