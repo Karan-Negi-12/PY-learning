@@ -1,0 +1,259 @@
+50 Multiple-Choice Questions
+
+What is the output of print("Hello", "World", sep="-")?
+a)  Hello World
+b)  Hello-World
+c)  HelloWorld
+d)  Hello,World
+
+Which of the following is NOT a valid data type in Python?
+a)  int
+b)  float
+c)  string
+d)  character
+
+What is the data type of 10.5?
+a)  int
+b)  float
+c)  str
+d)  bool
+
+Which data type is used to represent truth values?
+a)  int
+b)  float
+c)  str
+d)  bool
+
+What will be the output of print(type([1, 2, 3]))?
+a)  &lt;class 'tuple'>
+b)  &lt;class 'list'>
+c)  &lt;class 'set'>
+d)  &lt;class 'dict'>
+
+Which of the following is a valid variable name?
+a)  1var
+b)  var1
+c)  var-1
+d)  var name
+
+What is the value of b after the following code: a = 5; b = a; a = 10;?
+a)  5
+b)  10
+c)  15
+d)  Error
+
+Which of the following is an example of dynamic typing?
+a)  Declaring a variable with a specific data type (e.g., int x = 5;)
+b)  Changing the data type of a variable during the program's execution (e.g., x = 5; x = "hello";)
+c)  Not allowing variables to change their data type
+d)  Requiring explicit type casting for all operations
+
+Which of the following is NOT a keyword in Python?
+a)  if
+b)  else
+c)  for
+d)  variable
+
+Which of the following is a valid identifier?
+a)  my-var
+b)  123var
+c)  my_var
+d)  my var
+
+What function is used to take user input in Python?
+a)  print()
+b)  input()
+c)  get()
+d)  read()
+
+What type of value does the input() function return?
+a)  int
+b)  float
+c)  str
+d)  bool
+
+What is the output of the following code: num1 = input("Enter a number: "); num2 = input("Enter another number: "); print(num1 + num2); if the user enters 5 and 10?
+a)  15
+b)  510
+c)  5.  010.0
+d)  Error
+
+Which function is used to convert a string to an integer?
+a)  str()
+b)  int()
+c)  float()
+d)  bool()
+
+What will be the data type of result after the following operation: result = 5 + 5.5?
+a)  int
+b)  float
+c)  str
+d)  bool
+
+Which type of type conversion is done automatically by Python?
+a)  Explicit
+b)  Implicit
+c)  Both
+d)  None
+
+Which of the following is NOT true about type conversion?\
+a)  It can be used to convert a string to an integer.
+b)  It permanently changes the data type of a variable.
+c)  It can be done explicitly using functions like int() and str().
+d)  Python can perform implicit type conversion in some cases.
+
+What is a literal in Python?]
+a)  A variable name
+b)  A function name
+c)  A raw value used in the program
+d)  A keyword
+
+Which of the following is a string literal?\
+a)  10
+b)  3.  14
+c)  "hello"
+d)  True
+
+What type of literal is 1.5e3?
+a)  Integer
+b)  Float
+c)  String
+d)  Complex
+
+What is the value of result after the following: result = True + 5?
+a)  5
+b)  6
+c)  True5
+d)  Error
+
+In Python, how is "false" represented numerically for calculations?
+a)  1
+b)  -1
+c)  0
+d)  None
+
+Which of the following is NOT a valid numeric literal in Python?
+a)  1010
+b)  0b1010
+c)  0o10
+d)  0x1G
+
+What will be the output of print(0o12)?
+a)  12
+b)  10
+c)  2
+d)  Error
+
+What will be the output of print(0x1A)?
+a)  26
+b)  1A
+c)  16
+d)  Error
+
+Which operator is used to assign a value to a variable?
+a)  ==
+b)  =
+c)  +
+d)  -
+
+Which of the following is an example of multiple variable assignment?
+a)  x = 1, 2, 3
+b)  x, y, z = 1, 2, 3
+c)  x = y = z = [1, 2, 3]
+d)  All of the above
+
+What will be the output of print(a, b, c) after a, b, c = 10, "hello", 3.14?\
+a)  10 hello 3.14
+b)  10, "hello", 3.14
+c)  Error
+d)  None of the above
+
+Which of the following is NOT a characteristic of Python identifiers?
+a)  Case sensitive
+b)  Can start with a number
+c)  Can contain underscores
+d)  Cannot be a keyword
+
+How many keywords are there in Python?
+a)  27
+b)  30
+c)  32
+d)  35
+
+What will be the output of print(type(None))?
+a)  &lt;class 'None'>
+b)  &lt;class 'NoneType'>
+c)  None
+d)  null
+
+Which data type is used to store a sequence of characters?
+a)  int
+b)  float
+c)  str
+d)  bool
+
+What is the purpose of the end parameter in the print() function?
+a)  To specify the separator between the printed values
+b)  To specify what to print at the end of the line
+c)  To format the output
+d)  To print the output in reverse order
+
+Which of the following data types is immutable?
+a)  list
+b)  dict
+c)  tuple
+d)  set
+
+What is the output of print(5 + 2j)?
+a)  7
+b)  52j
+c)  5 + 2j
+d)  Error
+
+Which function is used to find the data type of a variable?
+a)  typeof()
+b)  type()
+c)  dtype()
+d)  gettype()
+
+What is the output of print(bool(0))?
+a)  True
+b)  False
+c)  0
+d)  1
+
+What is the output of print(bool(" "))?
+a)  True
+b)  False
+c)  " "
+d)  Error
+
+Which of the following is a valid way to represent a binary literal?
+a)  2b10
+b)  b'10'
+c)  0b10
+d)  10B
+
+What is the output of print(10 // 3)?
+a)  3.333
+b)  3
+c)  3.0
+d)  4
+
+Which operator is used for exponentiation in Python?
+a)  ^
+b)  *
+c)  **
+d)  pow()
+
+What is the output of print(2 ** 3)?
+a)  6
+b)  8
+c)  9
+d)  Error
+
+Which operator has the highest precedence?
+a)  +
+b)  *
+c)  **
+d)  //
