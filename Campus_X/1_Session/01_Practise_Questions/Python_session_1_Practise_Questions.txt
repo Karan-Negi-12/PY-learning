@@ -44,15 +44,15 @@ Write a program to find the minimum of two numbers. Take the numbers as input fr
 
 Write a program that takes a string as input and prints its length.
 
-Write a program that takes a string as input and prints it in uppercase.
+Write a program that takes a string as input and prints it in uppercase. {Star}
 
 Write a program that takes a string as input and prints it in lowercase.
 
-Write a program to concatenate two strings taken as input from the user.
+Write a program to concatenate two strings taken as input from the user. {Star}
 
-Write a program to extract a substring from a given string. Take the start and end indices as input from the user.
+Write a program to extract a substring from a given string. Take the start and end indices as input from the user.{Star}
 
-Write a program to replace a character in a string with another character. Take the original string, character to replace, and the new character as input from the user.
+Write a program to replace a character in a string with another character. Take the original string, character to replace, and the new character as input from the user. {Star}
 
 Write a program to split a string into a list of words. Take the string as input from the user.
 
